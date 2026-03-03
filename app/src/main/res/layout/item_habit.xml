@@ -1,0 +1,39 @@
+<!-- res/layout/item_habit.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:gravity="center_vertical">
+
+    <CheckBox
+        android:id="@+id/cbHabit"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Habit Name"
+        android:textColor="#6D6A6A"
+        android:textSize="18sp" />
+
+    <ImageButton
+        android:id="@+id/btnEdit"
+        android:layout_width="22dp"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:contentDescription="Edit habit"
+        android:padding="4dp"
+        android:src="@drawable/ic_edit"
+        app:tint="#059669" />
+
+    <ImageButton
+        android:id="@+id/btnDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_delete"
+        app:tint="#059669"
+        android:background="@android:color/transparent"
+        android:contentDescription="Delete habit"
+        android:padding="4dp" />
+
+</LinearLayout>

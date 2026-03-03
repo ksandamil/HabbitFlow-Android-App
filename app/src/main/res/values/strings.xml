@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Application5</string>
+    <string name="MoodTracker">Mood Tracker</string>
+    <string name="MyDailyHabits">My Daily Habits</string>
+    <string name="Trackcompleteandcelebrate">Track, complete, and celebrate!</string>
+    <string name="TodayProgress">Today\'s Progress</string>
+    <string name="Completed">0% Completed</string>
+    <string name="Enternewhabit">Enter new habit</string>
+    <string name="YourHabits">Your Habits</string>
+    <string name="habits">0 habits</string>
+    <string name="How">How are you feeling today?</string>
+    <string name="SelectYourTodayMood">Select Your Today Mood</string>
+    <string name="AddaNote">Add a Note (Optional)</string>
+    <string name="Whydoyoufeelthisway">Why do you feel this way?</string>
+    <string name="SaveMood">Save Mood</string>
+    <string name="MoodCalender">Mood Calender\n</string>
+    <string name="weeklymoodtrend">Weekly Mood Trend</string>
+    <string name="last7days">Last 7 days</string>
+    <string name="pastmoods">Past Moods</string>
+    <string name="entries">0 entries</string>
+    <string name="moodhistory">Export Mood Data</string>
+    <string name="nomoods">No Mood Entries Yet</string>
+    <string name="strattracking">Start tracking your mood above</string>
+    <string name="setings">Settings</string>
+    <string name="customizeyourwelness">Customize your wellness experience</string>
+    <string name="hydrationreminder">💧 Hydration Reminder</string>
+    <string name="stayhydrated">Stay hydrated throughout the day with automatic reminders\n</string>
+    <string name="enablereminders">Enable Reminders</string>
+    <string name="getnotifications">Get notifications to drink water</string>
+    <string name="reminderinterval">Reminder Interval</string>
+    <string name="every">Every</string>
+    <string name="dailywatergoal">Daily Water Goal</string>
+    <string name="savesettings">Save Settings</string>
+    <string name="target">Target</string>
+</resources>
