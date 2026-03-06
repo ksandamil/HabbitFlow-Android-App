@@ -38,10 +38,13 @@ The lightweight local storage implementation guarantees a responsive and uninter
 --------------------------------------------------------------------------------------
 Language: Kotlin
 
-UI Design: XML
-
 IDE: Android Studio
 
 Data Storage: SharedPreferences
 
 Build System: Gradle (KTS)
+
+Screen shots
+------------------------------------------------------
+
+
